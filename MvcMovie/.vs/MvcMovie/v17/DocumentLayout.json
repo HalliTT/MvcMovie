@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F17C2CD-7F87-4BF2-AFFA-AEC32CCA4CB7}|MvcMovie\\MvcMovie.csproj|c:\\users\\haral\\documents\\github\\mvcmovie\\mvcmovie\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F17C2CD-7F87-4BF2-AFFA-AEC32CCA4CB7}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F17C2CD-7F87-4BF2-AFFA-AEC32CCA4CB7}|MvcMovie\\MvcMovie.csproj|c:\\users\\haral\\documents\\github\\mvcmovie\\mvcmovie\\mvcmovie\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F17C2CD-7F87-4BF2-AFFA-AEC32CCA4CB7}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F17C2CD-7F87-4BF2-AFFA-AEC32CCA4CB7}|MvcMovie\\MvcMovie.csproj|c:\\users\\haral\\documents\\github\\mvcmovie\\mvcmovie\\mvcmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F17C2CD-7F87-4BF2-AFFA-AEC32CCA4CB7}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F17C2CD-7F87-4BF2-AFFA-AEC32CCA4CB7}|MvcMovie\\MvcMovie.csproj|c:\\users\\haral\\documents\\github\\mvcmovie\\mvcmovie\\mvcmovie\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F17C2CD-7F87-4BF2-AFFA-AEC32CCA4CB7}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F17C2CD-7F87-4BF2-AFFA-AEC32CCA4CB7}|MvcMovie\\MvcMovie.csproj|c:\\users\\haral\\documents\\github\\mvcmovie\\mvcmovie\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F17C2CD-7F87-4BF2-AFFA-AEC32CCA4CB7}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F17C2CD-7F87-4BF2-AFFA-AEC32CCA4CB7}|MvcMovie\\MvcMovie.csproj|c:\\users\\haral\\documents\\github\\mvcmovie\\mvcmovie\\mvcmovie\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F17C2CD-7F87-4BF2-AFFA-AEC32CCA4CB7}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F17C2CD-7F87-4BF2-AFFA-AEC32CCA4CB7}|MvcMovie\\MvcMovie.csproj|c:\\users\\haral\\documents\\github\\mvcmovie\\mvcmovie\\mvcmovie\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F17C2CD-7F87-4BF2-AFFA-AEC32CCA4CB7}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F17C2CD-7F87-4BF2-AFFA-AEC32CCA4CB7}|MvcMovie\\MvcMovie.csproj|c:\\users\\haral\\documents\\github\\mvcmovie\\mvcmovie\\mvcmovie\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F17C2CD-7F87-4BF2-AFFA-AEC32CCA4CB7}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F17C2CD-7F87-4BF2-AFFA-AEC32CCA4CB7}|MvcMovie\\MvcMovie.csproj|c:\\users\\haral\\documents\\github\\mvcmovie\\mvcmovie\\mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F17C2CD-7F87-4BF2-AFFA-AEC32CCA4CB7}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F17C2CD-7F87-4BF2-AFFA-AEC32CCA4CB7}|MvcMovie\\MvcMovie.csproj|c:\\users\\haral\\documents\\github\\mvcmovie\\mvcmovie\\mvcmovie\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F17C2CD-7F87-4BF2-AFFA-AEC32CCA4CB7}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +59,136 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T13:14:10.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T13:13:53.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie\\Views\\Movies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie\\Views\\Movies\\Delete.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Movies\\Delete.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowCkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T13:12:52.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T13:11:39.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovieGenreViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie\\Models\\MovieGenreViewModel.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Models\\MovieGenreViewModel.cs",
+              "ToolTip": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie\\Models\\MovieGenreViewModel.cs",
+              "RelativeToolTip": "MvcMovie\\Models\\MovieGenreViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:03:52.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T13:00:24.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MvcMovie\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:25:41.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie\\Models\\Movie.cs",
+              "RelativeToolTip": "MvcMovie\\Models\\Movie.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:22:46.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie\\Models\\SeedData.cs",
+              "RelativeToolTip": "MvcMovie\\Models\\SeedData.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwCMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:19:44.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie\\Program.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Program.cs",
+              "ToolTip": "C:\\Users\\haral\\Documents\\GitHub\\MvcMovie\\MvcMovie\\MvcMovie\\Program.cs",
+              "RelativeToolTip": "MvcMovie\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:18:39.227Z",
+              "EditorCaption": ""
             }
           ]
         }
